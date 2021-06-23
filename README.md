@@ -1,6 +1,6 @@
 -👋 Hi, I’m Christian MV (@chris-mlvz) 
 - 💜 I love coding
-- 👀 I’m interested in Artificial Intelligence and how to apply it in robots.
+- 👀 I’m interested in Artificial Intelligence and how to apply it.
 - 🌱 I’m currently learning about Software Development and Machine Learning
 
 <!---
