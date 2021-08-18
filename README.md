@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Chris MV (@chris_mlvz)
 - 💜 I love coding
 - 🌱 Always learning about Software Development and Machine Learning
+- 🦾 In fact a mechatronic engineer
 ## Developing with:
 - 🎯 Flutter and Dart for Mobile, Desktop & Web
 - ⚡ Go for Backend & APIs
