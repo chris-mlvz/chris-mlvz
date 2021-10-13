@@ -4,5 +4,5 @@
 - 🦾 In fact a Mechatronic Engineer.
 ## Developing with:
 - 🎯 Flutter and Dart for Mobile, Desktop & Web.
-- ⚡ Go for Backend & APIs.
+- ⚡ Rust and Go for Backend & APIs.
 - 🤖 Python for Machine Learning & AI.
